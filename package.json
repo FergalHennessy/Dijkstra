@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fergalhennessy.github.io/dijkstra",
+  "homepage": "https://fergalhennessy.github.io/Dijkstra",
   "dependencies": {
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
